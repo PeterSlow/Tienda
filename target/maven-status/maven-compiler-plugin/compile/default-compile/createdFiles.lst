@@ -1,0 +1,7 @@
+es\albarregas\controllers\Tienda.class
+es\albarregas\filters\filter.class
+es\albarregas\controllers\Carrito.class
+es\albarregas\filters\FormatoUTF8.class
+es\albarregas\beans\BeanBook.class
+es\albarregas\controllers\Facturacion.class
+es\albarregas\controllers\Productos.class
